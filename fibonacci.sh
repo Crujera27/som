@@ -1,3 +1,4 @@
+#!/bin/bash
 
 fibonacci() {
     a=0
